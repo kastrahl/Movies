@@ -21,8 +21,9 @@ public class MoviesApplication {
 //	}
 }
 
-//we'll divide our service into multiple layers not just one, there will be
-//service layer
-//dataaccess layer
-//API layer
+// we'll divide our service into multiple layers not just one, there will be
+// service layer
+// dataaccess layer
+// API layer
+//
 //
